@@ -5,7 +5,7 @@ package(
 config_setting(
     name = "use_gpu",
     define_values = {
-        "USE_GPU": "true",
+        "USE_GPU": "false",
     },
 )
 
